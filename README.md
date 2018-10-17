@@ -1,2 +1,2 @@
 # SpaceInvader
-Space Invader game similar to that released in 1978
+Space Invader game is similar to that released in 1978
